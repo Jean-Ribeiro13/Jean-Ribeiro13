@@ -25,19 +25,3 @@
 </div>
 
 ###
-
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/Jean-Ribeiro13/Jean-Ribeiro13/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Jean-Ribeiro13/Jean-Ribeiro13/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="spotify logo"  />
-</div>
-
-###
