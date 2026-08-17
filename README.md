@@ -2,7 +2,7 @@
 
 ###
 
-<h6 data-importer="text" align="left">Estudante de Engenharia de Software<br><br>Me chamo Jean Ribeiro e sou estudante de Engenharia de Software na UCB. Sou entusiasta da área de desenvolvimento e utilizo este espaço para documentar minha evolução prática, criando aplicações e explorando novas linguagens e ferramentas. Fique à vontade para explorar os repositórios ou entrar em contato através das minhas redes!</h6>
+<h6 data-importer="text" align="left">'Estudante de Engenharia de Software'<br><br>Me chamo Jean Ribeiro e sou estudante de Engenharia de Software na UCB. Sou entusiasta da área de desenvolvimento e utilizo este espaço para documentar minha evolução prática, criando aplicações e explorando novas linguagens e ferramentas. Fique à vontade para explorar os repositórios ou entrar em contato através das minhas redes!</h6>
 
 ###
 
